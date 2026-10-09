@@ -62,6 +62,20 @@ a {
     color: var(--gold);
 }
 
+.insta{
+    width: 35px;
+}
+.whats{
+    width: 28px;
+}
+.face{
+    width: 30px;
+}
+.telefone{
+
+    width: 30px;
+}
+
 .hero {
     min-height: 480px;
     background: url('../Images/apresentacion.png') center/cover no-repeat;
