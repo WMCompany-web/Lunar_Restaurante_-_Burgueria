@@ -36,9 +36,8 @@ a {
     align-items: center;
     justify-content: space-between;
     padding: 0 7%;
-   position: fixed;
+    position: relative;
     z-index: 10;
-    width: 100%;
 }
 
 .lunar-cabezalho {
@@ -304,7 +303,7 @@ a {
 
 .menu-heading {
     height: 100px;
-    background: #a8a59b;
+    background: linear-gradient(#a8a59b,#eee5d7 );
     display: flex;
     align-items: center;
     justify-content: center;
@@ -473,7 +472,7 @@ a {
 
 .menu-footer-logo {
     display: block;
-    width: 700px;
+    width: 220px;
     margin: 0 auto;
 }
 
