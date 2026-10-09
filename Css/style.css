@@ -36,8 +36,9 @@ a {
     align-items: center;
     justify-content: space-between;
     padding: 0 7%;
-    position: relative;
+   position: fixed;
     z-index: 10;
+    width: 100%;
 }
 
 .lunar-cabezalho {
@@ -472,7 +473,7 @@ a {
 
 .menu-footer-logo {
     display: block;
-    width: 220px;
+    width: 700px;
     margin: 0 auto;
 }
 
